@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Sistem Manajemen Data (CRUD)
 
 Aplikasi berbasis web yang dibangun menggunakan bahasa pemrograman PHP dengan menerapkan konsep MVC (Model-View-Controller). Aplikasi ini digunakan untuk mengelola data dengan fitur Create, Read, Update, dan Delete (CRUD).
@@ -27,4 +28,6 @@ Cara Menjalankan
 4. Letakkan folder di `htdocs`
 5. Buka browser:
    http://localhost/skincare/
+=======
+>>>>>>> 69324c6f4eccd4892f3b64afeb63be61605dc304
 
